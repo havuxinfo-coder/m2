@@ -1,0 +1,8 @@
+{
+  "name": "Remix Miirovelle Hotels \u0026 Real-Time Booking Management",
+  "description": "Luxury European boutique hotels collection duplicating Miiro hospitality with real-time local database reservation sync, live availability, and custom brand settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

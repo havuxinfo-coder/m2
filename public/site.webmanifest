@@ -1,0 +1,15 @@
+{
+  "name": "Miirovelle Hotels & Real-Time Booking",
+  "short_name": "Miirovelle",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBF9F5",
+  "theme_color": "#1A1715"
+}

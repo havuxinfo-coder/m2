@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Cormorant Garamond", Georgia, Cambria, serif;
+  --font-sans: "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+  --color-miiro-terracotta: #C86D51;
+  --color-miiro-ochre: #C48044;
+  --color-miiro-dark: #1A1715;
+  --color-miiro-sand: #F4EFEB;
+  --color-miiro-cream: #FBF9F5;
+  --color-miiro-sage: #455246;
+  --color-miiro-olive: #606C5A;
+}
+
+@layer base {
+  body {
+    font-family: var(--font-sans);
+    background-color: #FBF9F5;
+    color: #1A1715;
+  }
+  h1, h2, h3, h4, .font-serif {
+    font-family: var(--font-serif);
+  }
+}
